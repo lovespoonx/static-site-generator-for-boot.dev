@@ -1,0 +1,1 @@
+# static-site-generator-for-boot.dev
